@@ -7,3 +7,5 @@ po vytvoření branche example
 zmena v update-readme branch
 
 zmena lokalne v update-readme branch
+
+zmena pred rebase
